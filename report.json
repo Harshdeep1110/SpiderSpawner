@@ -1,0 +1,30 @@
+{
+  "target": "http://example.com/",
+  "timestamp": "2026-06-07T01:58:08.157835+00:00",
+  "total_words": 17,
+  "sources": {
+    "hrefs": [],
+    "form_fields": [],
+    "inline_js": [],
+    "external_js": [],
+    "keywords": [
+      "documentation",
+      "Learn",
+      "operations",
+      "use",
+      "domain",
+      "in",
+      "without",
+      "for",
+      "more",
+      "examples",
+      "Domain",
+      "is",
+      "Avoid",
+      "This",
+      "needing",
+      "Example",
+      "permission"
+    ]
+  }
+}
