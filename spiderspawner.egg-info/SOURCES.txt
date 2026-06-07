@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+spiderspawner/__init__.py
+spiderspawner/cli.py
+spiderspawner/extractor.py
+spiderspawner/fetcher.py
+spiderspawner/jsscanner.py
+spiderspawner/normalizer.py
+spiderspawner/reporter.py
+spiderspawner/utils.py
+spiderspawner.egg-info/PKG-INFO
+spiderspawner.egg-info/SOURCES.txt
+spiderspawner.egg-info/dependency_links.txt
+spiderspawner.egg-info/entry_points.txt
+spiderspawner.egg-info/requires.txt
+spiderspawner.egg-info/top_level.txt

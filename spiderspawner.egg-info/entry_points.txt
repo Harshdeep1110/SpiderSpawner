@@ -1,0 +1,2 @@
+[console_scripts]
+spawn = spiderspawner.cli:main
