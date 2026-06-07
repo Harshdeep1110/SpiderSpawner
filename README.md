@@ -14,6 +14,7 @@ git clone https://github.com/IcedKraken/spiderspawner.git
 cd spiderspawner
 pip install -e .
 ```
+Note: if pip install -e . does not work, use "pipx install ." instead
 
 ## 2. Command-Line Invocation
 
