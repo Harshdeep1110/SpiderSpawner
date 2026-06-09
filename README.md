@@ -93,7 +93,7 @@ spawn https://example.com --js-concurrency 20
 - **Ready-to-run ffuf command** — no manual assembly.
 - **Optional JSON report** — useful for debugging or integrating into larger recon pipelines.
 
-## 6. Important Limitations
+## 6. Important Limitations and why.
 
 | Limitation | Why |
 |------------|-----|
